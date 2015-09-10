@@ -1,0 +1,7 @@
+forms are HTML and follow HTTP conventions
+forms are the combination of a get and a post
+in sinatra we mainly build forms manually (in HTML)
+in rails we mainly use "form helpers" to dynamically create forms
+it's only the HTML you write that matters
+the most important things about a form are the name attributes of the inputs and the action of the form.
+the action of the form tells you where the form will post.
